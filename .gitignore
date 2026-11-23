@@ -112,3 +112,7 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Local Kopdes import and setup tools
+/Assets/Kopdes/Editor/
+/Assets/Kopdes/Editor.meta
